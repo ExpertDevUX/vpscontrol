@@ -5,31 +5,31 @@ Author: Tony Pham
 Contact: info@hwosecurity.org
 
 Features
-🖥️ Complete VPS management and provisioning
-💳 Integrated billing and invoicing system
-🎫 Support ticket system
-🔑 License key generation and management
-🛒 Shopping cart and product configuration
-💬 AI-powered customer support chat
-🌐 Multi-cloud provider integration
-📊 Comprehensive admin dashboard
-🔐 Secure authentication system
-💰 Multiple payment gateway integration
-Tech Stack
-Python 3.11+ with Flask framework
-PostgreSQL database with SQLAlchemy ORM
-Modern responsive web interface
-Anthropic Claude AI integration for customer support
-Cloud provider APIs (AWS, Digital Ocean, Vultr)
-PayPal payment processing
-Detailed Installation Guide
-System Requirements
-Operating System: Linux (Ubuntu/Debian recommended), macOS, or Windows
-Python: 3.11 or higher
-PostgreSQL: 12.0 or higher
-Memory: Minimum 2GB RAM
-Storage: Minimum 10GB free space
-Internet Connection: Required for external API access
+# 🖥️ Complete VPS management and provisioning;
+# 💳 Integrated billing and invoicing system;
+# 🎫 Support ticket system;
+# 🔑 License key generation and management;
+# 🛒 Shopping cart and product configuration;
+# 💬 AI-powered customer support chat;
+# 🌐 Multi-cloud provider integration;
+# 📊 Comprehensive admin dashboard;
+# 🔐 Secure authentication system;
+# 💰 Multiple payment gateway integration
+Tech Stack;
+#Python 3.11+ with Flask framework
+#PostgreSQL database with SQLAlchemy ORM
+#Modern responsive web interface
+#Anthropic Claude AI integration for customer support
+#Cloud provider APIs (AWS, Digital Ocean, Vultr)
+#PayPal payment processing
+#Detailed Installation Guide
+####System Requirements
+#Operating System: Linux (Ubuntu/Debian recommended), macOS, or Windows
+#Python: 3.11 or higher
+#PostgreSQL: 12.0 or higher
+#Memory: Minimum 2GB RAM
+#Storage: Minimum 10GB free space
+#Internet Connection: Required for external API access
 Step 1: System Preparation
 On Ubuntu/Debian:
 # Update system packages
